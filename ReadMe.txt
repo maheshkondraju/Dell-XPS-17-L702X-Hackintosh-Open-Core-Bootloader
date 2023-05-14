@@ -4,9 +4,8 @@ There are couple of differences between USB EFI and SSD EFI.
 
 2. Advise Features quirk under Generic PlatformInfo is required during installation to fix the error "A Required Firmware Update Could Not Be Installed".
 
-Open Core 0.9.2 Latest
-Edit: Open Core 0.9.2
-Delete: Open Core 0.9.2
+Open Core 0.9.2
+
 Hello Everyone,
 
 This release of Open Core 0.9.2 for Dell XPS 17 L702x is perfect, test and let me know if encountered any errors or problems.
