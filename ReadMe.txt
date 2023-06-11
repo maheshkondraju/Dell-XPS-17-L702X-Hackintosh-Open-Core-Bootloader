@@ -28,7 +28,7 @@ Fn + Brightness Keys works for increasing & Decreasing brightness.
 
 Realtek Gigabit Ethernet Controller is working.
 
-Includes Realtek USB Wireless Network Controller Kexts has been included.
+Includes Realtek USB Wireless Network Controller Kexts for usb wifi dongle.
 
 GenericUSBXHCI.kext has been included for Renesas USB 3.0.
 
