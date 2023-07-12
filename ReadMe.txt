@@ -1,12 +1,12 @@
+Last version of Open Core 0.9.3 for Dell XPS 17 L702x, Finally after 11 Years 9 months of services rendered, my Dell XPS 17 L702x motherboard is dead.
+
+So i will be moving on to a new laptop and no more support for Dell XPS 17 L702x.
+
 There are couple of differences between USB EFI and SSD EFI. 
 
 1. USB EFI SMBIOS is set to MacBookPro14,1 where as SSD EFI is set to MacBookPro8,3. This change is required, otherwise installation leads to an error "this update cannot be installed on this computer" where we cant select SSD Drive to install the OS, even after enabling boot arg -no_compat_check.
 
 2. Advise Features quirk under Generic PlatformInfo is required during installation to fix the error "A Required Firmware Update Could Not Be Installed".
-
-Open Core 0.9.3
-
-Hello Everyone,
 
 This release of Open Core 0.9.3 for Dell XPS 17 L702x is perfect, test and let me know if encountered any errors or problems.
 
