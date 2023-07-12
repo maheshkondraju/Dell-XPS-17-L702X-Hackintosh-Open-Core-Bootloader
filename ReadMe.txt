@@ -4,11 +4,11 @@ There are couple of differences between USB EFI and SSD EFI.
 
 2. Advise Features quirk under Generic PlatformInfo is required during installation to fix the error "A Required Firmware Update Could Not Be Installed".
 
-Open Core 0.9.2
+Open Core 0.9.3
 
 Hello Everyone,
 
-This release of Open Core 0.9.2 for Dell XPS 17 L702x is perfect, test and let me know if encountered any errors or problems.
+This release of Open Core 0.9.3 for Dell XPS 17 L702x is perfect, test and let me know if encountered any errors or problems.
 
 Lots of hardwork has gone in to this release.
 
@@ -27,8 +27,6 @@ Intel WiFi works.
 Fn + Brightness Keys works for increasing & Decreasing brightness.
 
 Realtek Gigabit Ethernet Controller is working.
-
-Includes Realtek USB Wireless Network Controller Kexts for usb wifi dongle.
 
 GenericUSBXHCI.kext has been included for Renesas USB 3.0.
 
