@@ -30,7 +30,7 @@ Realtek Gigabit Ethernet Controller is working.
 
 GenericUSBXHCI.kext has been included for Renesas USB 3.0.
 
-CryptexFixup.kext has been included to support booting of Ventura.
+CryptexFixup kext has been included to support processors without AVX 2 instruction set.
 
 VoodooPS2Controller.kext has been included to work with Synaptics Trackpad.
 
